@@ -1,3 +1,14 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "id": "leauge_playsotre",
+      "name": "LEAGUES",
+      "package": "",
+      "version": "9.3.0",
+      "description": "Regionalliga Südwest, West & Nord, Oberliga Baden-Württemberg und die 2. Frauen-Bundesliga live im Stream – jetzt auf LEAGUES ansehen.",
+      "category": "Sport",
+      "apk": "https://raw.githubusercontent.com/MrTyler12/TH-TV-OS/refs/heads/main/Storeapks/meintool.apk",
+      "icon": "https://raw.githubusercontent.com/MrTyler12/TH-TV-OS/refs/heads/main/Storeapks/icons/meintool.png"
+    }
+]
 }
