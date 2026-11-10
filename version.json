@@ -1,6 +1,6 @@
 {
   "package": "de.chefe.launcher",
-  "versionCode": 2,
+  "versionCode": 4,
   "versionName": "1.1",
   "apk": "https://github.com/MrTyler12/TH-TV-OS/raw/refs/heads/main/app-release.apk",
   "sha256": ""
