@@ -1,3 +1,29 @@
 git add .
 git commit -m "apk"
 git push
+
+
+catalog {
+  "apps": [
+    {
+      "id": "beispiel_app",
+      "name": "Mein Tool",
+      "package": "com.example.meintool",
+      "version": "1.0.0",
+      "description": "Dies ist eine kurze Beschreibung der Beispiel-App für Android TV.",
+      "category": "Tools",
+      "apk": "https://raw.githubusercontent.com/MrTyler12/TH-TV-OS/refs/heads/main/Storeapks/meintool.apk",
+      "icon": "https://raw.githubusercontent.com/MrTyler12/TH-TV-OS/refs/heads/main/Storeapks/icons/meintool.png"
+    },
+    {
+      "id": "mediaplayer",
+      "name": "Media Player",
+      "package": "com.example.mediaplayer",
+      "version": "2.1.4",
+      "description": "Ein schneller Media Player optimiert für die Fernbedienung.",
+      "category": "Multimedia",
+      "apk": "https://raw.githubusercontent.com/MrTyler12/TH-TV-OS/refs/heads/main/Storeapks/mediaplayer.apk",
+      "icon": "https://raw.githubusercontent.com/MrTyler12/TH-TV-OS/refs/heads/main/Storeapks/icons/mediaplayer.png"
+    }
+  ]
+}
