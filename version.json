@@ -1,7 +1,7 @@
 {
   "package": "de.chefe.launcher",
-  "versionCode": 8,
-  "versionName": "8.0",
-  "apk": "https://github.com/MrTyler12/TH-TV-OS/raw/refs/heads/main/app-release8.apk",
+  "versionCode": 10,
+  "versionName": "10.0",
+  "apk": "https://github.com/MrTyler12/TH-TV-OS/raw/refs/heads/main/app-release10.apk",
   "sha256": ""
 }
