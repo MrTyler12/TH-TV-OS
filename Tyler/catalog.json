@@ -9,6 +9,17 @@
       "category": "Sport",
       "apk": "https://github.com/MrTyler12/TH-TV-OS/raw/refs/heads/main/Tyler/LEAGUES_9.3_APKPure.xapk",
       "icon": "https://github.com/MrTyler12/TH-TV-OS/blob/main/Tyler/icons/leaguesgmbh_logo.jpeg"
+    },
+    {
+      "id": "smarttube",
+      "name": "SmartTube",
+      "package": "",
+      "version": "32.71",
+      "description": "Schaue Youtube ohne werbung!",
+      "category": "Unterhaltung",
+      "apk": "https://github.com/MrTyler12/TH-TV-OS/raw/refs/heads/main/Tyler/SmartTube_stable_32.71_arm64-v8a.apk",
+      "icon": "https://github.com/MrTyler12/TH-TV-OS/blob/main/Tyler/icons/leaguesgmbh_logo.jpeg"
     }
 ]
 }
+
