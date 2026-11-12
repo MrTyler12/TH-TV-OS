@@ -1,8 +1,8 @@
 {
   "package": "de.chefe.launcher",
-  "versionCode": 11,
+  "versionCode": 12,
   "versionName": "Flame",
-  "apk": "https://github.com/MrTyler12/TH-TV-OS/raw/refs/heads/main/app-release10.apk",
+  "apk": "https://github.com/MrTyler12/TH-TV-OS/raw/refs/heads/main/Otis.apk",
   "Betaapk": "https://github.com/MrTyler12/TH-TV-OS/raw/refs/heads/main/Otis.apk",
   "sha256": ""
 }
